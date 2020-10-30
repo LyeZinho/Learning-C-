@@ -1,7 +1,6 @@
 # Learning-C-
 -📚Tutorial and basic programs for everyone learning C language📚-
 
-🇧🇷 Flag: Brazil 
 
 💯Some tutorials for learning c💯
 https://www.freebookcentre.net/programming-books-download/C-Language-Tutorial-(PDF-124P).html
