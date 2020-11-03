@@ -3,7 +3,7 @@
 #include <stdint.h>
 #include <stdio.h>
 #include <stdlib.h>
-//Definição de constantes
+//DefiniÃ§Ã£o de constantes
 
 
 //Variaveis globais
@@ -13,7 +13,7 @@ main()
 {
 //Variaveis locais
 int x, y, z;
-//Operações aritimeticas
+//OperaÃ§Ãµes aritimeticas
 	x = y = 10;
 	z = ++x;
 	x = -x;
